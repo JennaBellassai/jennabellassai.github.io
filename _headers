@@ -11,7 +11,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /styles-ee68997d94dbe9ed76ee.js
   Cache-Control: public, max-age=31536000, immutable
-/commons-ad87a8a350b93badd347.js
+/commons-dbdc518c323c3278e2c1.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js
   Cache-Control: public, max-age=31536000, immutable
@@ -29,104 +29,111 @@
   Cache-Control: no-cache
 /offline-plugin-app-shell-fallback/
   Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
   Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-cf2fd0f92da7499f18b1.js>; rel=preload; as=script
-/challenging-social-concepts-in-stray-city-by-chelsey
+/consumerism-is-why-youll-never-be-satisfied-with-your
   Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
   Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
   Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
-  Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
-/the-multiverse-falls-short-in-if-then-by-kate-hope
-  Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
-  Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
-  Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
-  Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
-/waiting-for-a-spiritual-connection-in-ghost-wall-by
-  Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
-  Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
-  Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
-  Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
-/brutal-heavy-power-in-the-atlas-of-reds-and-blues
-  Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
-  Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
-  Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
-  Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
-/careening-out-of-control-in-beth-lewiss-the-wolf-road
-  Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
-  Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
-  Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
-  Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
-/all-over-space-and-time-in-lucia-berlins-evening-in
-  Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
-  Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
-  Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
-  Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
-/the-frightening-clarity-of-kristen-roupenian
-  Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
-  Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
-  Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
-  Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
-/eileen-by-ottessa-moshfegh-the-intrigue-of-anticipation
-  Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
-  Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
-  Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
   Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
 /a-review-of-jac-jemcs-novel-the-grip-of-it
   Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
   Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
   Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
   Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
-/a-review-of-susan-chois-novel-trust-exercise
+/brutal-heavy-power-in-the-atlas-of-reds-and-blues
   Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
   Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
   Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
   Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
-/the-heartbreak-of-being-ones-self-in-speak-no-evil
+/the-frightening-clarity-of-kristen-roupenian
   Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
   Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
   Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
+/the-multiverse-falls-short-in-if-then-by-kate-hope
+  Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
+  Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
   Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
 /little-fires-everywhere-by-celeste-ng-is-a-triumphant
   Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
   Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
   Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
+/careening-out-of-control-in-beth-lewiss-the-wolf-road
+  Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
+  Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
+/all-over-space-and-time-in-lucia-berlins-evening-in
+  Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
+  Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
+/challenging-social-concepts-in-stray-city-by-chelsey
+  Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
+  Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
+/waiting-for-a-spiritual-connection-in-ghost-wall-by
+  Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
+  Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
+/eileen-by-ottessa-moshfegh-the-intrigue-of-anticipation
+  Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
+  Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
+/the-heartbreak-of-being-ones-self-in-speak-no-evil
+  Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
+  Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
+/a-review-of-susan-chois-novel-trust-exercise
+  Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
+  Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
+  Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
   Link: </component---src-templates-post-jsx-3feb5b1ae9bacbd948da.js>; rel=preload; as=script
 /categories/reviews
   Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
   Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
   Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
   Link: </component---src-templates-category-jsx-405debbbdf04811fc2f9.js>; rel=preload; as=script
 /
   Link: </webpack-runtime-5424aef40062011e0f01.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
   Link: </app-3455a5b1f197d9879931.js>; rel=preload; as=script
   Link: </styles-ee68997d94dbe9ed76ee.js>; rel=preload; as=script
-  Link: </commons-ad87a8a350b93badd347.js>; rel=preload; as=script
+  Link: </commons-dbdc518c323c3278e2c1.js>; rel=preload; as=script
   Link: </component---src-pages-index-jsx-795e2d7581e74e46b8f1.js>; rel=preload; as=script
